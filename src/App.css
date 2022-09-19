@@ -1,0 +1,19 @@
+.App {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.Form {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 800px;
+	margin: 20px;
+}
+
+.TextField {
+	width: 400px;
+}
+
